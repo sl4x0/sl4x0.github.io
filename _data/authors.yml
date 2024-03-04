@@ -1,0 +1,20 @@
+sl4x0:
+  name: Abdelrahman Allam
+  username: sl4x0
+  url: https://github.com/sl4x0/
+  avatar: /assets/images/site_data/sl4x0.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "Penetration Tester & Bug Bounty Hunter."
+  location: "Somewhere"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:slaxome@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sl4x0.github.io/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sl4x0/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sl4x0"

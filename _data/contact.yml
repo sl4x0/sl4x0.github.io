@@ -2,13 +2,16 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/sl4x0"
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+  url: "https://twitter.com/sl4x0" # Fill with your Twitter account page, rel="me" will be applied for verification
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: flase # open link in current tab
+  url: "mailto:slaxome@gmail.com"
 
 - type: rss
   icon: "fas fa-rss"
@@ -19,10 +22,10 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-#
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://linkedin.com/in/sl4x0" # Fill with your Linkedin homepage
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
