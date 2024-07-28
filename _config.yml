@@ -76,7 +76,7 @@ theme_mode: dark # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/images/site-data/me.jpeg
+avatar: "/assets/images/site_data/me.jpeg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
